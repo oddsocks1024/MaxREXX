@@ -1,0 +1,36 @@
+DESCRIPTION
+-----------
+
+This is the source code to MaxRexx V1.2, a special door for Maxs BBS
+which lets you create doors in the AREXX scripting language.
+
+COMPILING
+---------
+
+MaxRexx doesn't use any additional modules which aren't supplied
+in the standard Amiga E distribution, so providing they are in
+the same location, recompilation should be as simple as typing
+
+ec maxrexx.e
+
+USAGE
+-----
+
+You can pretty much use the source code for anything you like. It
+can be redistributed, or used as part of another project,
+commercial or otherwise.
+
+
+DISCLAIMER
+----------
+
+Use entirely at your own risk and you accept in full any
+consequences from such use. No exceptions.
+
+
+
+-----------------------------------------------------------
+Written by Ian Chapman, with parts of the source also being
+written by Peter Gordon (aka Mr Tickle)
+-----------------------------------------------------------
+
